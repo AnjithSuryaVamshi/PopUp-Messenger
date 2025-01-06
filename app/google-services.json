@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842295260889",
+    "project_id": "temp-messenger",
+    "storage_bucket": "temp-messenger.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842295260889:android:e7637575f70d8c7a9130c8",
+        "android_client_info": {
+          "package_name": "com.example.messagesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjIon_9kGv749NnWW8egul9Pxna3XUXZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
